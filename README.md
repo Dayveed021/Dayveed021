@@ -61,15 +61,6 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 </div>
 
 <br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/Dayveed021/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/Dayveed021/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<br>
 
 <div align = "center">
 

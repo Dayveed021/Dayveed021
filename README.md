@@ -92,7 +92,7 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-33BDBD?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
@@ -132,8 +132,7 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 <a href="https://github.com/Dayveed021/Responsive-QR-code-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=Responsive-QR-code-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Responsive-QR-code-page"></a>
 <a href="https://github.com/Dayveed021/Bole"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=Bole&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Bole"></a>
 <a href="https://github.com/Dayveed021/DoorShop"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=DoorShop&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="DoorShop"></a>
-<a href="https://github.com/Dayveed021/LifeJournalz"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=LifeJournalz&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LifeJournalz"></a>  
-
+<a href="https://github.com/Dayveed021/LifeJournalz"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=LifeJournalz&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LifeJournalz"></a>
 
 <!-- BLOG-POST-LIST:END -->
 </p>

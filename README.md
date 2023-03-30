@@ -15,7 +15,7 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 - 🔭 I’m currently studying on **becoming a Full-Stack Developer**.
 
 - 🌱 I’m currently learning **Flutter**.
--
+
 - 📫 How to reach me: **udohdavid021@gmail.com@gmail.com**.
 
 - 💬 Ask me about **HTML, CSS, SASS, Js and ReactJs**.

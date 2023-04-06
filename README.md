@@ -40,13 +40,13 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
 - 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
 - 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
+- 📱 Build a full stack application.
 
 ## 📈 Achievements
 
 - 🎉 I have successfully built 2 web applcations using Reactjs.
-- 🤝 I have made a full figma design for a project that was developed and hoseted.
+- 🤝 I have made a full figma design for a project that has been developed and hosted.
 
-#
 
 <br>
 

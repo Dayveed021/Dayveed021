@@ -14,13 +14,9 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 
 - 🔭 I’m currently studying on **becoming a Full-Stack Developer**.
 
-- 🌱 I’m currently learning **Flutter**.
-
 - 📫 How to reach me: **udohdavid021@gmail.com**.
 
-- 💬 Ask me about **HTML, CSS, SASS, Js and ReactJs**.
-
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
+- 💬 Ask me about **HTML, CSS, SASS, Js and ReactJs, Flutter, SaaS, React Native**.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
@@ -28,11 +24,6 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 <br>
 
 ## 🏆 Goals
-
-- 📖 Learn the basics of **Flutter** programming language
-- 📱 Build a simple mobile app using **Flutter** and **Vscode**.
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 
 ## 🎯 Future Goals
@@ -40,11 +31,10 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
 - 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
 - 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
-- 📱 Build a full stack application.
 
 ## 📈 Achievements
 
-- 🎉 I have successfully built 2 web applcations using Reactjs.
+- 🎉 I have successfully built 4 web applcations using Reactjs, 2 applications using flutter.
 - 🤝 I have made a full figma design for a project that has been developed and hosted.
 
 
@@ -75,6 +65,8 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 </details>
 
 <details open>

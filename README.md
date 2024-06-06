@@ -25,12 +25,14 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 
 ## 🏆 Goals
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 👨🏽‍💻 Learn more about backend development
+- 👨🏽‍💻 Get an internship.
 
 ## 🎯 Future Goals
 
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
-- 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
+- 🧠 Graduate with a CyberSecurity degree.
+- 👨🏽‍💻 Get a Job a software developer.
 
 ## 📈 Achievements
 

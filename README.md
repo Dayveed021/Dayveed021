@@ -2,24 +2,28 @@
 Hi my name is David Udoh and I am a frontend developer with a passion for creating scalable, maintainable and user-friendly websites. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
 </h3>
 
-##
-
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px" />
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
-- 🔭 I’m currently studying on **becoming a Full-Stack Developer**.
+- 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 📫 How to reach me: **udohdavid021@gmail.com**.
+- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**.
 
-- 💬 Ask me about **HTML, CSS, SASS, Js and ReactJs, Flutter, SaaS, React Native**.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
+
+- 📫 How to reach me: **melvinaguilarhdz@gmail.com**.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
+- 🌎 Fluent in **Español** 📖, and polishing up my **English** skills every day 🌟
+
+
 <br>
 <br>
+
 
 ## 🏆 Goals
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.

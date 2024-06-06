@@ -128,11 +128,8 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 <br>
 <p align="left">
 <!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/Dayveed021/OssaiHomes"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=OssaiHomes&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="OssaiHomes"></a>
-<a href="https://github.com/Dayveed021/Responsive-QR-code-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=Responsive-QR-code-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Responsive-QR-code-page"></a>
+<a href="https://github.com/Dayveed021/wellprofessionals"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=wellprofessionals&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="OssaiHomes"></a>
 <a href="https://github.com/Dayveed021/Bole"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=Bole&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Bole"></a>
-<a href="https://github.com/Dayveed021/DoorShop"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=DoorShop&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="DoorShop"></a>
-<a href="https://github.com/Dayveed021/LifeJournalz"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=LifeJournalz&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LifeJournalz"></a>
 
 <!-- BLOG-POST-LIST:END -->
 </p>

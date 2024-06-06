@@ -71,6 +71,21 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 </details>
 
 <details open>
+<summary><b>🧰 Backend</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+</details>
+
+<details open>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 

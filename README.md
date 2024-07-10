@@ -20,8 +20,7 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 
 ## 🏆 Goals
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
-- 👨🏽‍💻 Learn more about backend development
-- 👨🏽‍💻 Get an internship.
+- 👨🏽‍💻 Get an internship or job.
 
 ## 🎯 Future Goals
 
@@ -31,8 +30,7 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 
 ## 📈 Achievements
 
-- 🎉 I have successfully built 4 web applcations using Reactjs, 2 applications using flutter.
-- 🤝 I have made a full figma design for a project that has been developed and hosted.
+- 🎉 I have successfully built web applcations using Reactjs and applications using flutter.
 
 
 <br>

@@ -8,11 +8,8 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="260px" />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="260px" />
 
-- 🔭 I’m currently studying on **becoming a Full-Stack Developer**.
 
 - 📫 How to reach me: **udohdavid021@gmail.com**.
-
-- 💬 Ask me about **HTML, CSS, SASS, Js and ReactJs, Flutter, SaaS, React Native**.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 

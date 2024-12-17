@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi my name is David Udoh and I am a frontend developer with a passion for creating scalable, maintainable and user-friendly websites. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
+Hi my name is David Udoh and I am a frontend developer with 5+ years of experience. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
 </h3>
 
 <br>
@@ -19,19 +19,13 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 
 
 ## 🏆 Goals
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
-- 👨🏽‍💻 Get an internship or job.
+- 👨🏽‍💻 Learn Kali Linux
 
 ## 🎯 Future Goals
 
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
 - 🧠 Graduate with a CyberSecurity degree.
 - 👨🏽‍💻 Get a Job a software developer.
-
-## 📈 Achievements
-
-- 🎉 I have successfully built web applcations using Reactjs and applications using flutter.
-
 
 <br>
 
@@ -69,7 +63,7 @@ Hi my name is David Udoh and I am a frontend developer with a passion for creati
 <summary><b>🧰 Backend</b></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/Typescript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 </details>
 

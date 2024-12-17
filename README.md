@@ -1,6 +1,6 @@
-<h3 align="center">
+<p align="center">
 Hi my name is David Udoh and I am a frontend developer with 5+ years of experience. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
-</h3>
+</p>
 
 <br>
 

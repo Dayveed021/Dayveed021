@@ -115,18 +115,6 @@ Hi my name is David Udoh and I am a frontend developer with 5+ years of experien
 </details>
 
 <details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<p align="left">
-<!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/Dayveed021/wellprofessionals"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=wellprofessionals&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="OssaiHomes"></a>
-<a href="https://github.com/Dayveed021/Bole"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayveed021&repo=Bole&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Bole"></a>
-
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
-
-<details>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">

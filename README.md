@@ -1,5 +1,5 @@
 <p align="center">
-Hi my name is David Udoh and I am a frontend developer with 5+ years of experience. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
+Hi my name is David Udoh and I am a frontend developer with 3+ years of experience. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
 </p>
 
 <br>
@@ -67,6 +67,7 @@ Hi my name is David Udoh and I am a frontend developer with 5+ years of experien
 
 ![Express.js](https://img.shields.io/badge/express.js-F7DF1E.svg?style=for-the-badge&logo=expressdotjs&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-339933.svg?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 </details>
 
 <details open>

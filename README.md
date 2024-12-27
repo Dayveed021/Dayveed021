@@ -58,7 +58,7 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/Typescript-F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/Typescript-ADD8E6.svg?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
 </details>
 
 <details open>
@@ -67,7 +67,7 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 
 ![Express.js](https://img.shields.io/badge/express.js-F7DF1E.svg?style=for-the-badge&logo=expressdotjs&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-339933.svg?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+![Django](https://img.shields.io/badge/django-008000.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 </details>
 
 <details open>

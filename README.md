@@ -11,21 +11,8 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 
 - 📫 How to reach me: **udohdavid021@gmail.com**.
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
-
 <br>
 <br>
-
-
-
-## 🏆 Goals
-- 👨🏽‍💻 Learn Kali Linux
-
-## 🎯 Future Goals
-
-- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 🧠 Graduate with a CyberSecurity degree.
-- 👨🏽‍💻 Get a Job a software developer.
 
 <br>
 

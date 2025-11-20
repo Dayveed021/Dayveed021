@@ -114,15 +114,6 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 <img src="https://github-profile-trophy.vercel.app/?username=Dayveed021&theme=discord" alt="Dayveed021" />
 </p>
 </details>
-
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dayveed021&show_icons=true&theme=radical&count_private=true" alt="Dayveed021" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayveed021&layout=compact&theme=radical" alt="Dayveed021" height="165">
-</p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Dayveed021.Dayveed021">
-</details>
   
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>

@@ -34,8 +34,6 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 <div align = "center">
     
 [![Gmail: David Udoh](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:udohdavid021@gmail.com)](mailto:udohdavid021@gmail.com)&nbsp;
-<br>
-[![Linkedin: David Udoh](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-udoh-7190722a1//)](https://www.linkedin.com/in/david-udoh-7190722a1//)
   
 </div>
 

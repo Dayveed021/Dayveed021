@@ -1,80 +1,59 @@
 <p align="center">
-Hi my name is David Udoh and I am a frontend developer with 3+ years of experience. My expertise lies in developing responsive websites and applications using the latest technologies and frameworks. I am constantly learning and keeping up-to-date with the latest trends in frontend development to deliver exceptional results. I am committed to collaborating with clients and stakeholders to bring their vision to life while providing a seamless user experience. 
+Hi, I'm <b>David Udoh</b> — an AWS DevOps Engineer with experience building automated cloud infrastructure, managing CI/CD pipelines, and deploying scalable applications using AWS, Terraform, Docker, and Python.  
+
+I enjoy designing reliable cloud architectures, improving developer workflows, and building systems that are secure, automated, and easy to maintain. With a strong background in frontend and backend engineering, I bring a full understanding of how applications behave from code → build → deploy → production.
 </p>
 
 <br>
 
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<!-- DevOps-themed illustration -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="260px" />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="260px" />
 
+- 📫 Reach me at: **udohdavid021@gmail.com**
+- 💼 LinkedIn: *(Add your link here when ready)*  
+- 🌐 Portfolio: *(Add your link here)*
 
-- 📫 How to reach me: **udohdavid021@gmail.com**.
+<br><br>
 
-<br>
-<br>
+<h2 align="center">⚙️ Core Technologies & Tools</h2>
 
-<br>
-
-<h2 align="center">📫 Connect with me</h2>
-
-<div align = "center">
-    
-[![Gmail: David Udoh](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:udohdavid021@gmail.com)](mailto:udohdavid021@gmail.com)&nbsp;
-  
-</div>
-
-<br>
-
-<div align = "center">
-
-<h2 align="center">🛠️ Languages and Tools</h2>
+<div align="center">
 
 <details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
+<summary><b>🚀 DevOps & Cloud</b></summary>
 <br>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/Typescript-ADD8E6.svg?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
 </details>
 
 <details open>
-<summary><b>🧰 Backend</b></summary>
+<summary><b>🧰 CI/CD & IaC</b></summary>
 <br>
 
-![Express.js](https://img.shields.io/badge/express.js-F7DF1E.svg?style=for-the-badge&logo=expressdotjs&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-008000.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
 </details>
 
 <details open>
-<summary><b>🗄️ Database</b></summary>
+<summary><b>💻 Software Engineering</b></summary>
 <br>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>💻 Software and Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-33BDBD?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-<br>
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-D83B01?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
@@ -82,12 +61,16 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 
 <br>
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
 
 <details>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Dayveed021&theme=radical&hide_border=true" alt="Dayveed021" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Dayveed021&theme=radical&hide_border=true" width="390" />
 </p>
 </details>
+
+</div>

@@ -1,5 +1,5 @@
 <p align="center">
-Hi, I'm <b>David Udoh</b> — an AWS DevOps Engineer with experience building automated cloud infrastructure, managing CI/CD pipelines, and deploying scalable applications using AWS, Terraform, Docker, and Python.  
+Hi, I'm <b>David Udoh, </b>an AWS DevOps Engineer with experience building automated cloud infrastructure, managing CI/CD pipelines, and deploying scalable applications using AWS, Terraform, Docker, and Python.  
 
 I enjoy designing reliable cloud architectures, improving developer workflows, and building systems that are secure, automated, and easy to maintain. With a strong background in frontend and backend engineering, I bring a full understanding of how applications behave from code → build → deploy → production.
 </p>
@@ -11,8 +11,6 @@ I enjoy designing reliable cloud architectures, improving developer workflows, a
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="260px" />
 
 - 📫 Reach me at: **udohdavid021@gmail.com**
-- 💼 LinkedIn: *(Add your link here when ready)*  
-- 🌐 Portfolio: *(Add your link here)*
 
 <br><br>
 

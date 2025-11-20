@@ -106,14 +106,3 @@ Hi my name is David Udoh and I am a frontend developer with 3+ years of experien
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Dayveed021&theme=radical&hide_border=true" alt="Dayveed021" width="390"/>
 </p>
 </details>
-
-<details>
-<summary><b>🏆 Github Trophies</b></summary>
-<br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dayveed021&theme=discord" alt="Dayveed021" />
-</p>
-</details>
-  
-  
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>

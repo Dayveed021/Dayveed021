@@ -3,19 +3,13 @@ Hi, I'm <b>David Udoh, </b>an AWS DevOps Engineer with experience building autom
 
 I enjoy designing reliable cloud architectures, improving developer workflows, and building systems that are secure, automated, and easy to maintain. With a strong background in frontend and backend engineering, I bring a full understanding of how applications behave from code → build → deploy → production.
 </p>
-<br>
 
 - 📫 Reach me at: **udohdavid021@gmail.com**
-
-<br>
-
 <!-- DevOps-themed illustration -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="260px" />
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="260px" />
-
-<br><br>
-<br></br>
-<br></br>
+<div align="center">
+    <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="260px" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="260px" />
+</div>
 <br></br>
 <h2 align="center">⚙️ Core Technologies & Tools</h2>
 
